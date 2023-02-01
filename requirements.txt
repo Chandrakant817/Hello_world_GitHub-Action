@@ -1,0 +1,11 @@
+flask~=2.1.2
+setuptools~=61.2
+flask
+pandas
+gunicorn
+PyYAML
+six
+dill
+
+# package creation
+-e .
